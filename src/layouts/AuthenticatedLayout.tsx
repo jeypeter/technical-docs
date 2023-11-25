@@ -12,10 +12,12 @@ export default function AuthenticatedLayout({
   children,
   color,
   navTree,
+  treeResult,
 }: {
   children: React.ReactNode;
   color: string;
-  navTree;
+  navTree: object;
+  treeResult;
 }) {
   return (
     <Box sx={{ display: "flex", background: color }}>
@@ -45,7 +47,7 @@ export default function AuthenticatedLayout({
       >
         <Toolbar />
         <Box sx={{ overflow: "auto" }}>
-          <SideBar navTree={navTree} />
+          <SideBar navTree={navTree} treeResult={treeResult} />
         </Box>
       </Drawer>
       <Box
