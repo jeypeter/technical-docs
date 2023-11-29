@@ -15,7 +15,7 @@ topics:
 <!-- markdownlint-disable early-access-references -->
 {% data reusables.actions.enterprise-github-hosted-runners %}
 
-## Example updated again on git
+## Example updated
 
 {% data reusables.actions.example-workflow-intro-ci %} When this workflow is triggered, it tests your code using a matrix of test combinations with `npm test`.
 
