@@ -16,7 +16,7 @@ shortTitle: About continuous deployment
  
 {% data reusables.actions.enterprise-github-hosted-runners %}
 
-## About continuous deployment on Github
+## About continuous deployment and Chris
 
 _Continuous deployment_ (CD) is the practice of using automation to publish and deploy software updates. As part of the typical CD process, the code is automatically built and tested before deployment.
 
