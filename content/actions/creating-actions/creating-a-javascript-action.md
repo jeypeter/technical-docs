@@ -20,7 +20,7 @@ topics:
  
 {% data reusables.actions.enterprise-github-hosted-runners %}
 
-## Introduction save localy updated
+## Introduction saved from git
 
 In this guide, you'll learn about the basic components needed to create and use a packaged JavaScript action. To focus this guide on the components needed to package the action, the functionality of the action's code is minimal. The action prints "Hello World" in the logs or "Hello [who-to-greet]" if you provide a custom name.
 
