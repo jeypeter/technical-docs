@@ -21,7 +21,7 @@ To help you understand your subscriptions and decide whether to unsubscribe, see
 
 {% endnote %}
 
-## Choosing how to unsubscribe updated locally
+## Choosing how to unsubscribe updated form git
 
 To unwatch (or unsubscribe from) repositories quickly, navigate to [github.com/watching](https://github.com/watching) to see all the repositories you're following. For more information, see "[Unwatching repositories](#unwatching-repositories)."
 
